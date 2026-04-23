@@ -1,1 +1,3 @@
-# CNN-for-Image-Classification
+-	Implement the original LeNet-5 architecture to classify handwritten digits from the MNIST dataset
+-	Apply the LeNet-5 architecture to a more complex dataset to evaluate its performance on colorful, high-variance natural images compared to simple grayscale digits.
+-	Fine-tune the CNN model and propose strategies to enhance its performance on the flower classification task through optimization and architectural improvements.
